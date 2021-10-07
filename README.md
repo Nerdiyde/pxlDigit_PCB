@@ -1,5 +1,5 @@
 # pxlDigit_PCB - A PCB for an easy scalable seven-segment display
-![](https://github.com/Nerdiyde/pxlDigit_PCB/pictures/pxldigit.png)
+![](https://github.com/Nerdiyde/pxlDigit_PCB/blob/main/pictures/pxldigit.png)
 The idea for the pxlDigit_PCB came to me while building the first version of the pxlDigit (article here:  **_[https://nerdiy.de/en/howto-elektronik-sieben-segment-ziffer-pxldigit-aus-ws2812-leds-bauen/](https://nerdiy.de/en/howto-elektronik-sieben-segment-ziffer-pxldigit-aus-ws2812-leds-bauen/)_**).
 
 The pxlDigit is built up from individual WS2812 LED segments. To do this, the LEDs must first be glued into the 3D printed housing and then soldered together in there. This step in particular is not that easy due to the lack of space. : /

@@ -1,6 +1,5 @@
 Additonal build instructions:
-English: https://nerdiy.de/en/howto-pcb-pxlblck_multipcb/
-German: https://nerdiy.de/howto-pcb-pxlblck_multipcb/
+English: https://nerdiy.de/en/pxldigit/
+German: https://nerdiy.de/pxldigit/
 
-The PCB can be ordered at: https://www.pcbway.com/project/shareproject/pxlBlck_multiPCB___a_multi_purpose_IOT_LED_Matrix_board.html
-
+The PCB can be ordered at: https://www.pcbway.com/project/shareproject/pxlDigit_PCB___Configurable_seven_segment_digit_IOT_PCB_V1_2.html
